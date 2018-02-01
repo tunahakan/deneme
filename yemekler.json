@@ -1,7 +1,7 @@
 ﻿{"yemekler":[
     { 
         "yemek_id":"1", 
-        "yemek_adi":"Doe",
+        "yemek_adi":"Adi",
         "yemek_aciklama":"Aciklama"
         "yemek_tur":"Tur"
         "yemek_pisirme_suresi":"Pisirme suresi"
@@ -13,7 +13,7 @@
         },
            { 
         "yemek_id":2, 
-       "yemek_adi":"Doe2",
+       "yemek_adi":"Adi2",
         "yemek_aciklama":"Aciklama2"
         "yemek_tur":"Tur2"
         "yemek_pisirme_suresi":"Pisirme suresi2"
@@ -25,7 +25,7 @@
         },
          { 
         "yemek_id":3, 
-        "yemek_adi":"Doe3",
+        "yemek_adi":"Adi3",
         "yemek_aciklama":"Aciklama3"
         "yemek_tur":"Tur3"
         "yemek_pisirme_suresi":"Pisirme suresi3"

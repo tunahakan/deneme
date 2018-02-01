@@ -9,7 +9,7 @@
         "yemek_kisi_sayisi":"Kisisayisi"
          "yemek_resim":"resim"
          "yemek_malzemeler":"malzemeler"
-    }
+    
         },
            { 
         "yemek_id":2, 
@@ -21,7 +21,7 @@
         "yemek_kisi_sayisi":"Kisisayisi2"
          "yemek_resim":"resim2"
          "yemek_malzemeler":"malzemeler2"
-     }
+     
         },
          { 
         "yemek_id":3, 
@@ -33,8 +33,9 @@
         "yemek_kisi_sayisi":"Kisisayisi3"
          "yemek_resim":"resim3"
          "yemek_malzemeler":"malzemeler3"
-     }
+     
         }
      
    
-]}
+]
+ }

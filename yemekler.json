@@ -6,7 +6,7 @@
             "yemek_aciklama": "Çok güzel yemek ",
            
              "yemek_pisirme_suresi":"40dk",
-              "yemek_hazirlama_suresi":"50dk",
+              "yemek_hazirlama_suresi":"50dk"
          
         },
            {
@@ -15,7 +15,7 @@
             "yemek_aciklama": "Çok güzel yemek ",
             
              "yemek_pisirme_suresi":"60dk",
-              "yemek_hazirlama_suresi":"20dk",
+              "yemek_hazirlama_suresi":"20dk"
      
         },
              {
@@ -24,7 +24,7 @@
             "yemek_aciklama": "Çok güzel yemek",
           
              "yemek_pisirme_suresi":"10dk",
-              "yemek_hazirlama_suresi":"20dk",
+              "yemek_hazirlama_suresi":"20dk"
            
         }
     ]

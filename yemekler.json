@@ -24,6 +24,32 @@
           
              "yemek_pisirme_suresi":"10dk"
            
+        },
+            {
+          
+            "yemek_adi": "Karnıyarık",
+            "yemek_aciklama": "Kıymalı harcını hazırlamak için; kuru soğanı küçük parçalar halinde yemeklik doğrayın. Sarımsağı ince ince kesin. ",
+          
+             "yemek_pisirme_suresi":"50dk"
+           
+        },
+            {
+          
+            "yemek_adi": "Kısır",
+            "yemek_aciklama": " Kıvırcık yaprakları, salatalık, sivri biber, istenirse domates küpleri katılıyor. Nar ekşisi, taze sıkılmış limon suyu, zeytinyağı, tuz ve karabiberle tatlanıp kaşık kaşık, kase kase yeniyor. Mideler mest oluyor. ",
+          
+             "yemek_pisirme_suresi":"50dk"
+           
+        },
+        
+            {
+          
+            "yemek_adi": "Patates Salatası",
+            "yemek_aciklama": " Kuru soğan yarım ay şeklinde başka bir kaba doğranır, tuz ile ovulur, yıkanır ve patatesin üzerine ilave edilir. 3. Yeşil soğan temizlenir ince doğranır, yıkanmış, ince kıyılmış maydanoz ve dere otu ile birlikte patatese konur. ",
+          
+             "yemek_pisirme_suresi":"50dk"
+           
         }
+        
     ]
 }

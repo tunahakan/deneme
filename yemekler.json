@@ -1,6 +1,6 @@
 ﻿{"yemekler":[
     { 
-        "yemek_id":1, 
+        "yemek_id":"1", 
         "yemek_adi":"Doe",
         "yemek_aciklama":"Aciklama"
         "yemek_tur":"Tur"
@@ -9,50 +9,32 @@
         "yemek_kisi_sayisi":"Kisisayisi"
          "yemek_resim":"resim"
          "yemek_malzemeler":"malzemeler"
+    }
         },
            { 
         "yemek_id":2, 
        "yemek_adi":"Doe2",
-        "yemek_aciklama":"Aciklama"
-        "yemek_tur":"Tur"
-        "yemek_pisirme_suresi":"Pisirme suresi"
-        "yemek_hazirlama_suresi":"hazirlama suresi"
-        "yemek_kisi_sayisi":"Kisisayisi"
-         "yemek_resim":"resim"
-         "yemek_malzemeler":"malzemeler"
+        "yemek_aciklama":"Aciklama2"
+        "yemek_tur":"Tur2"
+        "yemek_pisirme_suresi":"Pisirme suresi2"
+        "yemek_hazirlama_suresi":"hazirlama suresi2"
+        "yemek_kisi_sayisi":"Kisisayisi2"
+         "yemek_resim":"resim2"
+         "yemek_malzemeler":"malzemeler2"
+     }
         },
          { 
         "yemek_id":3, 
         "yemek_adi":"Doe3",
-        "yemek_aciklama":"Aciklama"
-        "yemek_tur":"Tur"
-        "yemek_pisirme_suresi":"Pisirme suresi"
-        "yemek_hazirlama_suresi":"hazirlama suresi"
-        "yemek_kisi_sayisi":"Kisisayisi"
-         "yemek_resim":"resim"
-         "yemek_malzemeler":"malzemeler"
-        },
-          { 
-        "yemek_id":4, 
-        "yemek_adi":"Yemek Adı 1",
-        "yemek_aciklama":"Tarifin Detayları 1"
-        "yemek_tur":"Tü"
-        "yemek_pisirme_suresi":"Doe"
-        "yemek_hazirlama_suresi":"Doe"
-        "yemek_kisi_sayisi":"Doe"
-         "yemek_resim":"Doe"
-         "yemek_malzemeler":"Doe"
+        "yemek_aciklama":"Aciklama3"
+        "yemek_tur":"Tur3"
+        "yemek_pisirme_suresi":"Pisirme suresi3"
+        "yemek_hazirlama_suresi":"hazirlama suresi3"
+        "yemek_kisi_sayisi":"Kisisayisi3"
+         "yemek_resim":"resim3"
+         "yemek_malzemeler":"malzemeler3"
+     }
         }
-           { 
-        "yemek_id":5, 
-        "yemek_adi":"Doe",
-        "yemek_aciklama":"Doe"
-        "yemek_tur":"Doe"
-        "yemek_pisirme_suresi":"Doe"
-        "yemek_hazirlama_suresi":"Doe"
-        "yemek_kisi_sayisi":"Doe"
-         "yemek_resim":"Doe"
-         "yemek_malzemeler":"Doe"
-        }
+     
    
 ]}

@@ -1,41 +1,37 @@
-﻿{"yemekler":[
-    { 
-        "yemek_id":"1", 
-        "yemek_adi":"Adi",
-        "yemek_aciklama":"Aciklama"
-        "yemek_tur":"Tur"
-        "yemek_pisirme_suresi":"Pisirme suresi"
-        "yemek_hazirlama_suresi":"hazirlama suresi"
-        "yemek_kisi_sayisi":"Kisisayisi"
-         "yemek_resim":"resim"
-         "yemek_malzemeler":"malzemeler"
-    
+{
+    "yemekler": [
+        {
+            "yemek_id": "1",
+            "yemek_adi": "aaa",
+            "yemek_aciklama": "Çok güzel yemek ",
+             "yemek_tur":"atistirmalık",
+             "yemek_pisirme_suresi":"40dk",
+              "yemek_hazirlama_suresi":"50dk",
+             "yemek_kisi_sayisi":"Kisisayisi",
+             "yemek_resim":"resim1",
+             "yemek_malzemeler":"malzemeler"
         },
-           { 
-        "yemek_id":2, 
-       "yemek_adi":"Adi2",
-        "yemek_aciklama":"Aciklama2"
-        "yemek_tur":"Tur2"
-        "yemek_pisirme_suresi":"Pisirme suresi2"
-        "yemek_hazirlama_suresi":"hazirlama suresi2"
-        "yemek_kisi_sayisi":"Kisisayisi2"
-         "yemek_resim":"resim2"
-         "yemek_malzemeler":"malzemeler2"
-     
+           {
+           "yemek_id": "2",
+            "yemek_adi": "bbb",
+            "yemek_aciklama": "Çok güzel yemek ",
+             "yemek_tur":"atistirmalık",
+             "yemek_pisirme_suresi":"60dk",
+              "yemek_hazirlama_suresi":"20dk",
+             "yemek_kisi_sayisi":"3",
+             "yemek_resim":"resim1",
+             "yemek_malzemeler":"aaa"
         },
-         { 
-        "yemek_id":3, 
-        "yemek_adi":"Adi3",
-        "yemek_aciklama":"Aciklama3"
-        "yemek_tur":"Tur3"
-        "yemek_pisirme_suresi":"Pisirme suresi3"
-        "yemek_hazirlama_suresi":"hazirlama suresi3"
-        "yemek_kisi_sayisi":"Kisisayisi3"
-         "yemek_resim":"resim3"
-         "yemek_malzemeler":"malzemeler3"
-     
+             {
+           "yemek_id": "3",
+            "yemek_adi": "patatesa",
+            "yemek_aciklama": "Çok güzel yemek",
+             "yemek_tur":"atistirmalık",
+             "yemek_pisirme_suresi":"10dk",
+              "yemek_hazirlama_suresi":"20dk",
+             "yemek_kisi_sayisi":"3",
+             "yemek_resim":"resim1",
+             "yemek_malzemeler":"patates"
         }
-     
-   
-]
- }
+    ]
+}

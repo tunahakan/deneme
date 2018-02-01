@@ -3,28 +3,26 @@
         {
           
             "yemek_adi": "Kartalkaya Kebabı",
-            "yemek_aciklama": "Çok güzel yemek ",
+            "yemek_aciklama": " Yani bir bütün yuvarlak üzerinde iki simit şeklinde yuvarlakla çanak haline getirilir. Alttaki hamurun ortasına çatalla delikler yapılır. Pişirdiğimiz milföy çanaklarının içine etler koyulup taze kekikle süslenerek servis yapılır.  ",
            
-             "yemek_pisirme_suresi":"40dk",
-              "yemek_hazirlama_suresi":"50dk"
+             "yemek_pisirme_suresi":"40dk"
+             
          
         },
            {
            
             "yemek_adi": "Abant Kebabı",
-            "yemek_aciklama": "Çok güzel yemek ",
+            "yemek_aciklama": "Patlıcanların ortalarını bir çatal yardımıyla ezin. Hazırladığınız etli malzemeyi patlıcanların içlerine paylaştırın. Salça ve bir miktar sıcak suyu karıştırarak fırın tepsisine dökün. ",
             
-             "yemek_pisirme_suresi":"60dk",
-              "yemek_hazirlama_suresi":"20dk"
+             "yemek_pisirme_suresi":"60dk"
      
         },
              {
           
             "yemek_adi": "Cevizli Keşli Erişte",
-            "yemek_aciklama": "Çok güzel yemek",
+            "yemek_aciklama": "Dinlenen hamurları bezelere ayırıyoruz ve unladığımız tezgamızda yufka şeklinde açıyoruz. Açtığımız yufkaların serin bir yerde hafif kurumasını sağlıyoruz. Ardından şeritler halinde kesmeye başlıyoruz. ",
           
-             "yemek_pisirme_suresi":"10dk",
-              "yemek_hazirlama_suresi":"20dk"
+             "yemek_pisirme_suresi":"10dk"
            
         }
     ]

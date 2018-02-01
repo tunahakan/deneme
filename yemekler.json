@@ -1,37 +1,31 @@
 {
     "yemekler": [
         {
-            "yemek_id": "1",
+          
             "yemek_adi": "Kartalkaya Kebabı",
             "yemek_aciklama": "Çok güzel yemek ",
              "yemek_tur":"atistirmalık",
              "yemek_pisirme_suresi":"40dk",
               "yemek_hazirlama_suresi":"50dk",
-             "yemek_kisi_sayisi":"Kisisayisi",
-             "yemek_resim":"resim1",
-             "yemek_malzemeler":"4 adet dolmalık taze kabak Tuz"
+         
         },
            {
-           "yemek_id": "2",
+           
             "yemek_adi": "Abant Kebabı",
             "yemek_aciklama": "Çok güzel yemek ",
              "yemek_tur":"atistirmalık",
              "yemek_pisirme_suresi":"60dk",
               "yemek_hazirlama_suresi":"20dk",
-             "yemek_kisi_sayisi":"3",
-             "yemek_resim":"resim1",
-             "yemek_malzemeler":"200 gr. süzme yoğurt"
+     
         },
              {
-           "yemek_id": "3",
+          
             "yemek_adi": "Cevizli Keşli Erişte",
             "yemek_aciklama": "Çok güzel yemek",
              "yemek_tur":"atistirmalık",
              "yemek_pisirme_suresi":"10dk",
               "yemek_hazirlama_suresi":"20dk",
-             "yemek_kisi_sayisi":"3",
-             "yemek_resim":"resim1",
-             "yemek_malzemeler":"patates"
+           
         }
     ]
 }
